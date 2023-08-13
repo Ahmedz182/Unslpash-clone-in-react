@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Unslpash-clone-in-react/static/css/main.0242c544.css",
-    "main.js": "/Unslpash-clone-in-react/static/js/main.ce1c55e3.js",
+    "main.js": "/Unslpash-clone-in-react/static/js/main.8c6ba54c.js",
     "static/js/787.58f764ca.chunk.js": "/Unslpash-clone-in-react/static/js/787.58f764ca.chunk.js",
     "index.html": "/Unslpash-clone-in-react/index.html",
     "main.0242c544.css.map": "/Unslpash-clone-in-react/static/css/main.0242c544.css.map",
-    "main.ce1c55e3.js.map": "/Unslpash-clone-in-react/static/js/main.ce1c55e3.js.map",
+    "main.8c6ba54c.js.map": "/Unslpash-clone-in-react/static/js/main.8c6ba54c.js.map",
     "787.58f764ca.chunk.js.map": "/Unslpash-clone-in-react/static/js/787.58f764ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0242c544.css",
-    "static/js/main.ce1c55e3.js"
+    "static/js/main.8c6ba54c.js"
   ]
 }
