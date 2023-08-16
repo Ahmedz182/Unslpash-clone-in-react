@@ -1,8 +1,8 @@
 # Unslpash-clone-in-react
 
-## Clone of unsplashed.com with API and responsive design in React.js
-## Responsive Landing page in React.js with axious API and React-Modal_image 
-### Also used Scss in it.
+ ### Clone of unsplashed.com with API and responsive design in React.js
+ Responsive Landing page in React.js with axious API and React-Modal_image 
+ Also used Scss in it.
 ![image](https://github.com/Ahmedz182/Unslpash-clone-in-react/assets/35397403/734b2dc8-a22d-4d1a-8792-1000f0865fcf)
 
 ![image](https://github.com/Ahmedz182/Unslpash-clone-in-react/assets/35397403/3e4b66da-0024-46bc-a8dc-0f65b7c18e25)
