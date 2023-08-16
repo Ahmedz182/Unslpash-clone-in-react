@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Unslpash-clone-in-react/static/css/main.4a7d1572.css",
-    "main.js": "/Unslpash-clone-in-react/static/js/main.9d93d5d4.js",
+    "main.css": "/Unslpash-clone-in-react/static/css/main.b1e3ea69.css",
+    "main.js": "/Unslpash-clone-in-react/static/js/main.31f6eabe.js",
     "static/js/787.58f764ca.chunk.js": "/Unslpash-clone-in-react/static/js/787.58f764ca.chunk.js",
     "index.html": "/Unslpash-clone-in-react/index.html",
-    "main.4a7d1572.css.map": "/Unslpash-clone-in-react/static/css/main.4a7d1572.css.map",
-    "main.9d93d5d4.js.map": "/Unslpash-clone-in-react/static/js/main.9d93d5d4.js.map",
+    "main.b1e3ea69.css.map": "/Unslpash-clone-in-react/static/css/main.b1e3ea69.css.map",
+    "main.31f6eabe.js.map": "/Unslpash-clone-in-react/static/js/main.31f6eabe.js.map",
     "787.58f764ca.chunk.js.map": "/Unslpash-clone-in-react/static/js/787.58f764ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a7d1572.css",
-    "static/js/main.9d93d5d4.js"
+    "static/css/main.b1e3ea69.css",
+    "static/js/main.31f6eabe.js"
   ]
 }
